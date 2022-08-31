@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="img/Hi.gif" width="30px">, I'm Subham Gourisaria
+  Hi <img src="Hi.gif" width="30px">, I'm Subham Gourisaria
 </h1>
 
 <p align="center">
