@@ -25,7 +25,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/SubhamBnk?tab=repositories)
 
-- 📝 I regularly write articles on [Hackathons, Community Involvement, Internship opportunities](Hackathons, Community Involvement, Internship opportunities)
+- 📝 I regularly write articles on **Hackathons, Community Exposure, Internship opportunities*
 
 - 💬 Ask me about **Programming , Community Building , Open Source & Hackathons**
 
