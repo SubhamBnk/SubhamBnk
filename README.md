@@ -60,7 +60,7 @@
 <h3 align="left">Connect with me</h3>
 <p align="center">
   <a href="https://github.com/SubhamBnk">
-    <img src="me.jpg" width=200px height=150px>
+    <img src="me.jpeg" width=200px height=150px>
   </a>
 </p>
 <p align="center">
