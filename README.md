@@ -37,6 +37,7 @@
 
 <br><br>
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/subhambnk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="subhambnk" height="30" width="40" /></a>
 <a href="https://twitter.com/subham_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subham_coder" height="30" width="40" /></a>
@@ -60,7 +61,6 @@
 
 <br><br><br>
 
-<h3 align="left">Connect with me</h3>
 <p align="center">
   <a href="https://github.com/SubhamBnk">
     <img src="me.jpeg" width=200px height=300px>
