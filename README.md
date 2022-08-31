@@ -59,18 +59,18 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="center">
-  <a href="https://github.com/roynitin710">
+  <a href="https://github.com/SubhamBnk">
     <img src="img/me.jpg" width=200px height=150px>
   </a>
 </p>
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/nitin-roy-8704a91ba/">
+  <a target="_blank" href="https://www.linkedin.com/in/subham-gourisaria-a13418201/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:nitin.roy@uem.edu.in?subject=Hello%20(your name),%20From%20Github">
+  <a href="mailto:subhamgourisariabnk@gmail.com?subject=Hello%20(your name),%20From%20Github">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://twitter.com/roynitin710">
+  <a target="_blank" href="https://twitter.com/Subham_Coder">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -80,7 +80,7 @@
 <br>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/nitinroy" target="_blank">
+  <a href="https://www.buymeacoffee.com/subhambnk" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;">
   </a>
 </p>
