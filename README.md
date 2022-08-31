@@ -23,15 +23,17 @@
 
 - 👯 I’m looking to collaborate on **Dsa Sessions, Hackathons, Open source projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SubhamBnk?tab=repositories](https://github.com/SubhamBnk?tab=repositories)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/SubhamBnk?tab=repositories)
 
 - 📝 I regularly write articles on [Hackathons, Community Involvement, Internship opportunities](Hackathons, Community Involvement, Internship opportunities)
 
-- 💬 Ask me about **react and gsap**
+- 💬 Ask me about **Programming , Community Building , Open Source & Hackathons**
 
-- 📫 How to reach me **https://www.linkedin.com/in/subham-gourisaria-a13418201/**
+- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/subham-gourisaria-a13418201/)** , **[Twitter](https://twitter.com/subham_coder)**
 
 - ⚡ Fun fact **I love to create and watch memes.**
+
+- 📄 Know about my experiences in my **[Linkedin](https://www.linkedin.com/in/subham-gourisaria-a13418201/)**
 
 <br><br>
 
