@@ -85,10 +85,17 @@
   </a>
 </p>
 
-<br>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhambnk&show_icons=true&locale=en&layout=compact" alt="subhambnk" /></p>
+<br><br>
+<h3 align="left">Overall profile stats</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhambnk&show_icons=true&locale=en" alt="subhambnk" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhambnk&show_icons=true&locale=en&layout=compact&theme=dark" alt="subhambnk" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhambnk&" alt="subhambnk" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhambnk&show_icons=true&locale=en&theme=dark" alt="subhambnk" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhambnk&theme=dark" alt="subhambnk" />
+</p>
