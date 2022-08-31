@@ -29,9 +29,9 @@
 
 - 💬 Ask me about **Programming , Community Building , Open Source & Hackathons**
 
-- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/subham-gourisaria-a13418201/)** , **[Twitter](https://twitter.com/subham_coder)**
+- 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/subham-gourisaria-a13418201/)** , **[Twitter](https://twitter.com/subham_coder)**
 
-- ⚡ Fun fact **I love to create and watch memes.**
+- ⚡ Fun fact: **I love to create and watch memes.**
 
 - 📄 Know about my experiences in my **[Linkedin](https://www.linkedin.com/in/subham-gourisaria-a13418201/)**
 
