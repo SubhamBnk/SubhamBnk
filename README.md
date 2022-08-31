@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=2147F7FF&size=24&width=515&height=62&lines=Welcome+to+the+World+of+Subham%27s+Creation!">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=2147F7FF&size=24&width=515&height=62&lines=Welcome+to+the+World+of+Subham%27s+Creation!  ">
 </p>
 
 <h3 align="center">Core Team@GDSC UEMJ || Postman Student Expert| Open Source Contributor||Udacity AWS ML Schr|||| HR and TL(AP Zone) at Visudh Ajivam Pvt Ltd || Keynote Speaker ||DSC@IEM-UEM|| IMUN Intern ||Let's Connect to share more|</h3>
